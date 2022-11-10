@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "passivegens:block/diamond_generator"
+    }
+  }
+}
