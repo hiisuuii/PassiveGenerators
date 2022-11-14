@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "IXI",
+        "CIC"
+    ],
+    "key": {
+        "C": {
+            "item": "passivegens:component_tier3"
+        },
+        "I": {
+          "item": "minecraft:emerald"
+		},
+        "X": {
+          "item": "passivegens:obsidian_generator"
+		}
+    },
+    "result": {
+        "item": "passivegens:emerald_generator"
+    }
+}

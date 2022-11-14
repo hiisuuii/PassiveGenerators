@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "IXI",
+        "CIC"
+    ],
+    "key": {
+        "C": {
+            "item": "passivegens:component_tier4"
+        },
+        "I": {
+          "item": "minecraft:netherite_ingot"
+		},
+        "X": {
+          "item": "passivegens:emerald_generator"
+		}
+    },
+    "result": {
+        "item": "passivegens:netherite_generator"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "IXI",
+        "CIC"
+    ],
+    "key": {
+        "C": {
+            "item": "passivegens:component_tier4"
+        },
+        "I": {
+          "item": "minecraft:nether_star"
+		},
+        "X": {
+          "item": "passivegens:netherite_generator"
+		}
+    },
+    "result": {
+        "item": "passivegens:ultimate_generator"
+    }
+}

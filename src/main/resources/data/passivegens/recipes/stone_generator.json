@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "IXI",
+        "CIC"
+    ],
+    "key": {
+        "C": {
+            "item": "passivegens:component_tier1"
+        },
+        "I": {
+          "item": "minecraft:smooth_stone"
+		},
+        "X": {
+          "item": "passivegens:generator_core"
+		}
+    },
+    "result": {
+        "item": "passivegens:stone_generator"
+    }
+}

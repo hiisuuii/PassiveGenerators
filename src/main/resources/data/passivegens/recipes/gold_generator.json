@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "IXI",
+        "CIC"
+    ],
+    "key": {
+        "C": {
+            "item": "passivegens:component_tier2"
+        },
+        "I": {
+          "item": "minecraft:gold_ingot"
+		},
+        "X": {
+          "item": "passivegens:iron_generator"
+		}
+    },
+    "result": {
+        "item": "passivegens:gold_generator"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "IXI",
+        "CIC"
+    ],
+    "key": {
+        "C": {
+            "item": "passivegens:component_tier1"
+        },
+        "I": {
+          "item": "minecraft:iron_ingot"
+		},
+        "X": {
+          "item": "passivegens:stone_generator"
+		}
+    },
+    "result": {
+        "item": "passivegens:iron_generator"
+    }
+}

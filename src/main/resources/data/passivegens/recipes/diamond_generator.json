@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "IXI",
+        "CIC"
+    ],
+    "key": {
+        "C": {
+            "item": "passivegens:component_tier2"
+        },
+        "I": {
+          "item": "minecraft:diamond"
+		},
+        "X": {
+          "item": "passivegens:gold_generator"
+		}
+    },
+    "result": {
+        "item": "passivegens:diamond_generator"
+    }
+}
