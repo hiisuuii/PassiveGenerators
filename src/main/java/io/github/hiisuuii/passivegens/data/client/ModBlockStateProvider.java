@@ -18,7 +18,13 @@ public class ModBlockStateProvider extends BlockStateProvider{
 	@Override
 	protected void registerStatesAndModels() {
 		// TODO Auto-generated method stub
+		simpleBlock(BlockInit.STONE_GENERATOR.get());
+		simpleBlock(BlockInit.IRON_GENERATOR.get());
+		simpleBlock(BlockInit.GOLD_GENERATOR.get());
 		simpleBlock(BlockInit.DIAMOND_GENERATOR.get());
+		simpleBlock(BlockInit.OBSIDIAN_GENERATOR.get());
+		simpleBlock(BlockInit.EMERALD_GENERATOR.get());
+		simpleBlock(BlockInit.NETHERITE_GENERATOR.get());
 		
 	}
 

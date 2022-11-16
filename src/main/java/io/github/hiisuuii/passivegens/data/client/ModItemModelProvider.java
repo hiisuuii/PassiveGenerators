@@ -15,7 +15,13 @@ public class ModItemModelProvider extends ItemModelProvider{
 
 	@Override
 	protected void registerModels() {
-		withExistingParent("diamond_generator", mcLoc("block/diamond_block"));
+		withExistingParent("stone_generator", modLoc("block/stone_generator"));
+		withExistingParent("iron_generator", modLoc("block/iron_generator"));
+		withExistingParent("gold_generator", modLoc("block/gold_generator"));
+		withExistingParent("diamond_generator", modLoc("block/diamond_generator"));
+		withExistingParent("obsidian_generator", modLoc("block/obsidian_generator"));
+		withExistingParent("emerald_generator", modLoc("block/emerald_generator"));
+		withExistingParent("netherite_generator", modLoc("block/netherite_generator"));
 
 		builder(itemGenerated,"generator_core");
 		builder(itemGenerated,"component_tier1");

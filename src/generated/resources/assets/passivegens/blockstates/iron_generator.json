@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "passivegens:block/iron_generator"
+    }
+  }
+}
