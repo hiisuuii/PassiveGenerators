@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "all": "minecraft:block/andesite"
+    "end": "minecraft:block/piston_bottom",
+    "side": "passivegens:block/stone_generator"
   }
 }

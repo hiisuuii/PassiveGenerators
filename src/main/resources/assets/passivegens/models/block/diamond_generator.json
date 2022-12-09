@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "all": "passivegens:block/diamond_generator"
+    "end": "minecraft:block/diamond_block",
+    "side": "passivegens:block/diamond_generator"
   }
 }

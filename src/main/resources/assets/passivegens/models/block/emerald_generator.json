@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "all": "passivegens:block/emerald_generator"
+    "end": "minecraft:block/emerald_block",
+    "side": "passivegens:block/emerald_generator"
   }
 }
